@@ -8,6 +8,8 @@ If you want to build a web 🖥️, mobile 📲 or voice assistance 📞 applica
 ## Learning:
 
 - Design Patterns
+- Business Management
+- Lean Startup
 - Architecture
 
 ![alt text](https://github.com/fsblandon/fsblandon/blob/master/cover.png?raw=true)
