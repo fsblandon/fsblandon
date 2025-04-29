@@ -7,12 +7,10 @@ If you want to build a web 🖥️, mobile 📲 or voice assistance 📞 applica
 
 ## Learning:
 
-- Design Patterns
-- Business Management
-- Lean Startup
+- IA Integrations
+- Next JS
+- Data structure
 - Architecture
-
-[Official Site](https://fsblandon.super.site/)
 
 ![alt text](https://github.com/fsblandon/fsblandon/blob/master/cover.png?raw=true)
 
